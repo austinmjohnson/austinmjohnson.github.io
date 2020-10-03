@@ -60,7 +60,7 @@ projects: true
 # add your projects here
 project-list:
     CustomDrops:
-        name: Eve
+        name: CustomDrops
         description: A spigot plugin to add custom loot drop mechanics
         url: https://github.com/hatred2k/CustomDrops
     V3-Cogs:
